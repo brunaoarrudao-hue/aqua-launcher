@@ -119,4 +119,4 @@ O executável é gerado em `dist\AquaLauncher.exe`.
 
 ## Licença
 
-Defina aqui a licença do projeto (por exemplo, MIT).
+MIT
